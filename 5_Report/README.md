@@ -6,3 +6,6 @@ The design and implementation is divided into different objectives and outcomes.
 
 ##### COMPONENT ANALYSIS
 STM32F407V4 The STM32F4 Discovery board is small devices based on STMF4, which is a high�performance microcontroller. This board allows users to develop and design applications. It has multiple modules within itself which allows the user to communicate and design the interface of different kinds without relying on any third device. The board has all the modern system modules peripherals like ADC and DAC, audio port, UART, etc which makes it one of the best-developing devices. The device may be for developing modern applications but some protocols will need to be followed to use the device, like the compiler, voltage potential, etc. In this tutorial, we will discuss swd pinout, pin configuration, pin description, features, and exampleS
+
+##### RESULT
+When the wiper switch is in the off position, the wiper will not function. When the wiper switch is in low-speed mode, the wiper will work at low speed. Accordingly, when the wiper switch is in high-speed mode, the wiper will work at a fairly high
